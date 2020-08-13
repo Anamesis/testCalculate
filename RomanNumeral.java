@@ -10,7 +10,7 @@ public enum RomanNumeral {
 
     private int value;
 
-    RomanNumeral(int value) {//конструктор который принимает значение
+    RomanNumeral(int value) {
         this.value = value;
     }
 
